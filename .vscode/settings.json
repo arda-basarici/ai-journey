@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "phase2-data/blackjack-sim",
+    "phase3-deep-learning/blackjack-rl"
+  ]
+}
